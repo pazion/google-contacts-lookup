@@ -9,4 +9,6 @@ Make sure you whitelist your rderiect_uri.
 
 2. run a composer install for used libs.
 
+
+3. Query by using phonenumber: https://<path_to_script>/?cli=<phonenumber>&status=invite
 Good luck!
