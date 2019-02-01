@@ -1,0 +1,15 @@
+# Ignore all vendor directories.
+vendor/
+
+# Keep all .gitkeep files.
+!.gitkeep
+
+# Ignore all thumbnail database files.
+Thumbs.db
+
+# Ignore Pazion Sitepublisher Developer checkout .gitkeep
+# in root dir of Sitepublisher Skeleton checkout.
+/.gitkeep
+
+/.idea
+
